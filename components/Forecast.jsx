@@ -5,7 +5,7 @@ const Forecast = ({ main, description, temp }) => {
   return (
     <View style={{flex:1, justifyContent:'space-evenly'}}>
       <Text style={styles.content}>{main}</Text>
-      <Text style={styles.content}>Description {description}</Text>
+      <Text style={styles.content}>{description}</Text>
       <Text style={styles.content}>{temp} °C</Text>
     </View>
   );
