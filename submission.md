@@ -11,10 +11,6 @@
   จะมีการ fetch ข้อมูลผ่าน api http://api.openweathermap.org/data/2.5/weatherq=${props.zipCode},th&units=metric&APPID=9aebc24f65604b3bafc6612917507d59 และจะเก็บค่าที่ fetch ได้ไว้ใน state และ import Forecast เข้ามาพร้อมกับส่ง props ที่ได้ไป(ค่าที่ fetch มา)
 
 
-Forecast
-
-![image](https://user-images.githubusercontent.com/100436146/183290677-0fd0f0a9-152d-48c5-a1fd-3222e9b37c19.png)
-
 ## ผลลัพธ์ที่ได้
 
 ![image](https://user-images.githubusercontent.com/100436146/183290701-fbc30971-a47b-44ad-9dee-cb9310fa0f00.png)
