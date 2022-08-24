@@ -1,4 +1,8 @@
 ## นายนัฐพล  สิงหาด  6310110240 section 01
+- fetch api และนำข้อมูลมาแสดงเพิ่มเติม
+- ปรับแต่ง เพิ่มรูปภาพ Background
+- จัดวาง Layout ใหม่
+
 ในไฟล์ App.js จะสร้าง Screen ไว้สองหน้าคือ หน้า Home และ Weather โดยจะใช้ library ของ react-native โดยจะติดตั้งผ่าน cmd โดยใช้คำสั่ง yarn add @react-navigation/stack @react-navigation/native
 
 
