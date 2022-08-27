@@ -1,4 +1,4 @@
-## นายนัฐพล  สิงหาด  6310110240 section 01
+## นายพีรพล ศิริวิริยาถรณ์ section 03
 - fetch api และนำข้อมูลมาแสดงเพิ่มเติม
 - ปรับแต่ง เพิ่มรูปภาพ Background
 - จัดวาง Layout ใหม่
@@ -15,8 +15,3 @@
   จะมีการ fetch ข้อมูลผ่าน api http://api.openweathermap.org/data/2.5/weatherq=${props.zipCode},th&units=metric&APPID=9aebc24f65604b3bafc6612917507d59 และจะเก็บค่าที่ fetch ได้ไว้ใน state และ import Forecast เข้ามาพร้อมกับส่ง props ที่ได้ไป(ค่าที่ fetch มา)
 
 
-## ผลลัพธ์ที่ได้
-
-![image](https://user-images.githubusercontent.com/100436146/183290701-fbc30971-a47b-44ad-9dee-cb9310fa0f00.png)
-
-![image](https://user-images.githubusercontent.com/100436146/183290717-3f2152ae-58ed-49a9-aa58-011d2ab49ac0.png)
